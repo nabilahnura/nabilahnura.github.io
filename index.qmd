@@ -10,7 +10,7 @@ format:
 editor: visual
 ---
 
-![](images/image-492946043.png)
+![](poltekapp.jpg)
 
 ## Pendahuluan
 
@@ -138,7 +138,7 @@ Berdasarkan tabel diatas, dapat dilihat perkembangan produktivitas kakao Indones
 | F-Statistic        | 0.7677   |
 | Prob (F-Statistic) | 0.4304   |
 
-Produksi kakao tidak berpengaruh terhadap produktivitas. Ditunjukkan dengan dilihat dari probabilitas X (Produktivitas) yang tidak berpengaruh. Dimana produksi sering menjadi faktor yang dapat mendorong naik dan turunnya produktivitas. Nilai koefisien produksi sebesar 1353905.6 yang berarti kenaikan perubahan produksi tidak berpengaruh terhadap produktivitas. Dengan hasil ini maka dapat disimpulkan bahwa produksi kakao tidak berpengaruh terhadap produktivitas.
+Produksi kakao tidak berpengaruh terhadap produktivitas. Ditunjukkan dengan dilihat dari probabilitas X (Produksi) yang tidak berpengaruh. Dimana produksi sering menjadi faktor yang dapat mendorong naik dan turunnya produktivitas. Nilai koefisien produksi sebesar 1353905.6 yang berarti kenaikan perubahan produksi tidak berpengaruh terhadap produktivitas. Dengan hasil ini maka dapat disimpulkan bahwa produksi kakao tidak berpengaruh terhadap produktivitas.
 
 Hasil regresinya adalah
 
@@ -159,9 +159,6 @@ Berdasarkan data hasil analisis kuantitatif yang telah dilakukan, setelah diamat
 
 Media, K. C. (2022, January 29). *Apa Itu Ekspor: Pengertian, Jenis, Tujuan, dan Manfaatnya Halaman all*. KOMPAS.com. <https://money.kompas.com/read/2022/01/29/152419826/apa-itu-ekspor-pengertian-jenis-tujuan-dan-manfaatnya>
 
-*Kementerian Pertanian Direktorat Jenderal Perkebunan » Buku Statistik Perkebunan 2020-2022*. (n.d.).
-Retrieved January 19, 2023, from <https://ditjenbun.pertanian.go.id/?publikasi=buku-statistik-perkebunan-2020-2022>
+*Kementerian Pertanian Direktorat Jenderal Perkebunan » Buku Statistik Perkebunan 2020-2022*. (n.d.). Retrieved January 19, 2023, from <https://ditjenbun.pertanian.go.id/?publikasi=buku-statistik-perkebunan-2020-2022>
 
-*Kementerian Pertanian Direktorat Jenderal Perkebunan » Cokelatku Budayaku Indonesiaku:
-TUMBUHKAN BUDAYA KORPORASI PEKEBUN KAKAO*. (n.d.). Retrieved January 19,
-2023, from <https://ditjenbun.pertanian.go.id/cokelatku-budayaku-indonesiaku-tumbuhkan-budaya-korporasi-pekebun-kakao/>
+*Kementerian Pertanian Direktorat Jenderal Perkebunan » Cokelatku Budayaku Indonesiaku: TUMBUHKAN BUDAYA KORPORASI PEKEBUN KAKAO*. (n.d.). Retrieved January 19, 2023, from <https://ditjenbun.pertanian.go.id/cokelatku-budayaku-indonesiaku-tumbuhkan-budaya-korporasi-pekebun-kakao/>
